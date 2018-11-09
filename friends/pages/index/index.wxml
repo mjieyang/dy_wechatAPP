@@ -1,0 +1,3 @@
+<navigator url="/friends/pages/add_friend/index" hover-class="navigator-hover">创建圈子</navigator>
+<navigator url="/friends/pages/find_friends/index" hover-class="navigator-hover">发现圈子</navigator>
+<navigator url="/friends/pages/friend_main/index" hover-class="navigator-hover">段子主页</navigator>

@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "my/pages/index/index",
+    "message/pages/index/index",
+    "friends/pages/index/index",
+    "friends/pages/add_friend/index",
+    "friends/pages/find_friends/index",
+    "friends/pages/friend_main/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath":"./image/fn1.png",
+      "selectedIconPath":"./image/fa1.png"
+      },
+      {
+      "pagePath": "friends/pages/index/index",
+      "text": "圈子",
+      "iconPath":"./image/fn2.png",
+      "selectedIconPath":"./image/fa2.png"
+      },
+      {
+        "pagePath": "message/pages/index/index",
+        "text": "消息",
+        "iconPath":"./image/fn3.png",
+        "selectedIconPath":"./image/fa3.png"
+      },
+      {
+        "pagePath": "my/pages/index/index",
+        "text": "我的",
+        "iconPath":"./image/fn4.png",
+        "selectedIconPath":"./image/fa4.png"
+      }
+    ]
+  }
+}

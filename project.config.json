@@ -1,0 +1,68 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.3.2",
+	"appid": "wxbb148b8b36075530",
+	"projectname": "%E6%B7%B1%E5%9C%B3%E5%B0%8F%E6%9C%AC",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 3,
+			"list": [
+				{
+					"id": -1,
+					"name": "发现圈子",
+					"pathName": "friends/pages/find_friends/index",
+					"query": ""
+				},
+				{
+					"id": 1,
+					"name": "创建圈子",
+					"pathName": "friends/pages/add_friend/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "圈子主页",
+					"pathName": "friends/pages/friend_main/index",
+					"query": ""
+				},
+				{
+					"id": 3,
+					"name": "圈子",
+					"pathName": "friends/pages/index/index",
+					"query": ""
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,2 @@
+<button wx:if="{{isLogin}}" open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">授权登录</button>
+
